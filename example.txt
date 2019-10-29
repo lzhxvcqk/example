@@ -4,3 +4,4 @@ This is the second line
 
 This is the 3rd line
 
+This is bug fix 1
